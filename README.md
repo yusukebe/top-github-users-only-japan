@@ -1,11 +1,15 @@
 # Top GitHub Users By Country [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
+### ただし日本に限る
+
+<a href="https://github.com/gayanvoice/top-github-users">Top GitHub Users By Country</a>がおもしろいのですが、いかんせん日本（に限らないけど）の更新頻度が低くて、情報が古いので、更新頻度を高めにした「日本に限った」ものを作りました。本家で使っている<a href="https://github.com/yusukebe/top-github-users-action">GitHub ActionsをForkしたもの</a>を使ってページを生成しています。もし気に入ったら<a href="https://github.com/gayanvoice/top-github-users">本家のレポジトリ</a>に ⭐ するのをお忘れなく。
+
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2022/4/8 2:24 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2022/4/8 2:57 AM UTC`.
 
 This repository contains users `1 countries` and `1 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/yusukebe/top-github-users-only-japan/blob/main/config.json).
