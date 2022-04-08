@@ -1,0 +1,13 @@
+{
+  "devMode": "false",
+  "locations": [
+    {
+      "country": "japan",
+      "geoName": "Japan",
+      "cities": [
+        "tokyo"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+    }
+  ]
+}
