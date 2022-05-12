@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japan">
 </a>
 
-The `number of followers` of users in Japan on `2022/5/11 3:10 PM UTC`. This list contains users from `Japan` and cities `Tokyo`.
+The `number of followers` of users in Japan on `2022/5/12 3:10 PM UTC`. This list contains users from `Japan` and cities `Tokyo`.
 
 There are `1 countries` and `1 cities` can be found [here](https://github.com/yusukebe/top-github-users-only-japan).
 
