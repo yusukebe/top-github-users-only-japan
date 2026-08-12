@@ -1,5 +1,6 @@
 {
   "devMode": "false",
+  "deduplicate": true,
   "locations": [
     {
       "country": "japan",
